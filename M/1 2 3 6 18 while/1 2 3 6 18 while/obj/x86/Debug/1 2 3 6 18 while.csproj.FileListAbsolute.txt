@@ -1,0 +1,4 @@
+E:\M\1 2 3 6 18 while\1 2 3 6 18 while\bin\Debug\1 2 3 6 18 while.exe
+E:\M\1 2 3 6 18 while\1 2 3 6 18 while\bin\Debug\1 2 3 6 18 while.pdb
+E:\M\1 2 3 6 18 while\1 2 3 6 18 while\obj\x86\Debug\1 2 3 6 18 while.exe
+E:\M\1 2 3 6 18 while\1 2 3 6 18 while\obj\x86\Debug\1 2 3 6 18 while.pdb
