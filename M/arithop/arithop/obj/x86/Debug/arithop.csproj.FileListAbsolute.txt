@@ -1,4 +1,0 @@
-E:\M\arithop\arithop\bin\Debug\arithop.exe
-E:\M\arithop\arithop\bin\Debug\arithop.pdb
-E:\M\arithop\arithop\obj\x86\Debug\arithop.exe
-E:\M\arithop\arithop\obj\x86\Debug\arithop.pdb
